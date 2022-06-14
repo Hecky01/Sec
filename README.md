@@ -1,2 +1,1 @@
-# Sec
-CybSec begginer 
+
